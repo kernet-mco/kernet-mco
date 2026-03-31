@@ -1,6 +1,6 @@
-# 👋 Hi, I'm a Senior Solution Architect, Full Stack Developer & IT Consultant.
+# 👋 Hello everybody! My name is Marcus Ollas and I'm a Senior Solution Architect, Full Stack Developer & IT Consultant.
 
-I'm IT professional since 1989 and CEO @ KERNET GmbH. I have a strong focus on building scalable, reliable and maintainable systems.
+I am IT professional since 1989 and CEO @ KERNET GmbH. I have a strong focus on building scalable, reliable and maintainable systems.
 
 ---
 
@@ -19,7 +19,7 @@ I'm IT professional since 1989 and CEO @ KERNET GmbH. I have a strong focus on b
 - Distributed Systems
 - Cloud & Backend Systems
 - API Design & Integration
-- DevOps & Automation
+- Administration, Service & Support
 
 ---
 
