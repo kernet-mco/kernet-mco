@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm a Senior Solution Architect, Full Stack Developer & IT Consultant.
 
-<!--
-**kernet-mco/kernet-mco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm IT professional since 1989 and CEO @ KERNET GmbH. I have a strong focus on building scalable, reliable and maintainable systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I Do
+
+- Design and implement **scalable system architectures**
+- Build **full stack applications** with a pragmatic approach
+- Advise companies as an **IT consultant & solution architect**
+- Focus on **clean architecture, performance and long-term maintainability**
+
+---
+
+## ⚙️ Core Areas
+
+- Software Architecture
+- Distributed Systems
+- Cloud & Backend Systems
+- API Design & Integration
+- DevOps & Automation
+
+---
+
+## 🛠️ Tech Stack (selected)
+
+```text
+Languages:     C/C++ · C#/.NET · JavaScript · Python · PHP · HTML/CSS
+Backend:       MVC/Web · ORM · REST APIs
+Frontend:      Full Clients · Web/mobile Apps
+Databases:     MySQL/MariaDB · PostgreSQL · MSSQL · Oracle
+VI/Container:  Hyper-V · VMware · Docker · Citrix/Xen
+Systems:       Linux · UNIX · Windows · macOS
