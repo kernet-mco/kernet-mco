@@ -34,7 +34,3 @@ Databases:     MySQL/MariaDB · PostgreSQL · MSSQL · Oracle
 VI/Container:  Hyper-V · VMware · Docker · Citrix/Xen
 Systems:       Linux · UNIX · Windows · macOS
 ```
-
----
-
-![Marcus' GitHub stats](https://github-readme-stats.vercel.app/api?username=kernet-mco&show_icons=true&theme=tokyonight)
